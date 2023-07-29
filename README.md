@@ -1,2 +1,2 @@
 # Main repo 
-A collection of some of my implemented projects while learning ML
+A collection of some of projects I've worked on
